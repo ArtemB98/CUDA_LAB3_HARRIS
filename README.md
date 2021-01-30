@@ -1,5 +1,9 @@
 # CUDA_LAB3_HARRIS
+### Исходное изображение
+![alt tag](https://github.com/ArtemB98/CUDA_LAB3_HARRIS/input.png "Исходное изображение")​
 
+### Результат работы
+![alt tag](https://github.com/ArtemB98/CUDA_LAB3_HARRIS/output.png "Результат работы")​
 Результат c threshold-значением = 10:
 
 Время выполнения на GPU:  0.001708267999902091
